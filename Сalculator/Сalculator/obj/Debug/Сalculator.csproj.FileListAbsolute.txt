@@ -1,0 +1,7 @@
+C:\Users\Максим\source\repos\Сalculator\Сalculator\bin\Debug\Сalculator.exe.config
+C:\Users\Максим\source\repos\Сalculator\Сalculator\bin\Debug\Сalculator.exe
+C:\Users\Максим\source\repos\Сalculator\Сalculator\bin\Debug\Сalculator.pdb
+C:\Users\Максим\source\repos\Сalculator\Сalculator\obj\Debug\Сalculator.csprojAssemblyReference.cache
+C:\Users\Максим\source\repos\Сalculator\Сalculator\obj\Debug\Сalculator.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\Сalculator\Сalculator\obj\Debug\Сalculator.exe
+C:\Users\Максим\source\repos\Сalculator\Сalculator\obj\Debug\Сalculator.pdb
